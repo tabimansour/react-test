@@ -3,7 +3,7 @@ import {
     Route,
 } from 'react-router-dom';
 
-import logo from './logo.svg';
+
 import HomePage from "./pages/HomePage";
 import PortfoliosPage from "./pages/PortfoliosPage";
 import PortfolioPage from "./pages/PortfolioPage";
